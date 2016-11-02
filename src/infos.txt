@@ -1,0 +1,72 @@
+MaVen, gestionnaire de dependances et de packages.
+Gradle Gestionnaire d'installation.
+
+Projet : Application de contact :
+
+	Main
+	CarnetAdresse
+		
+		Afficher (Listing)
+		Ajout
+		Retrait
+		Modif
+		Soit CRUD (create, read, update & delete)
+		Sauvegarde
+	Contact
+		Id
+		Nom
+		Prenom
+		Tel
+		Addresse
+		Email
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		addressBook.addUser(new User("Dorbes", "Léo", "leodorbes@gmail.com", "test paris", "45454545", "45-45-7898"));
+		addressBook.addUser(new User("Duvant", "Damien", "dduvant@gmail.com", "test paris", "45454545", "45-45-7898"));
+		addressBook.addUser(new User("Fenelon", "Raphael", "fenelonRaph@gmail.com", "test paris", "45454545", "45-45-7898"));
+		addressBook.addUser(new User("Beaujois", "Maxime", "beaumax@gmail.com", "test paris", "45454545", "45-45-7898"));
+		addressBook.addUser(new User("Trini", "Julie", "jujudu29@gmail.com", "test paris", "45454545", "45-45-7898"));
+		addressBook.addUser(new User("Gallet", "Louise", "Loulouise@gmail.com", "test paris", "45454545", "45-45-7898"));
+		addressBook.addUser(new User("Sanhou", "Laure", "laureSanhou@gmail.com", "test paris", "45454545", "45-45-7898"));
+		addressBook.addUser(new User("Miret", "Diane", "dianemiret4@gmail.com", "test paris", "45454545", "45-45-7898"));
+		addressBook.addUser(new User("Pasquier", "Sylvie", "sylvie-pasquier@gmail.com", "test paris", "45454545", "45-45-7898"));
+		addressBook.addUser(new User("Dorbes", "Léo", "leodorbes@gmail.com", "test paris", "45454545", "45-45-7898"));
+		addressBook.addUser(new User("Duvant", "Damien", "dduvant@gmail.com", "test paris", "45454545", "45-45-7898"));
+		addressBook.addUser(new User("Fenelon", "Raphael", "fenelonRaph@gmail.com", "test paris", "45454545", "45-45-7898"));
+		addressBook.addUser(new User("Beaujois", "Maxime", "beaumax@gmail.com", "test paris", "45454545", "45-45-7898"));
+		addressBook.addUser(new User("Trini", "Julie", "jujudu29@gmail.com", "test paris", "45454545", "45-45-7898"));
+		addressBook.addUser(new User("Gallet", "Louise", "Loulouise@gmail.com", "test paris", "45454545", "45-45-7898"));
+		addressBook.addUser(new User("Sanhou", "Laure", "laureSanhou@gmail.com", "test paris", "45454545", "45-45-7898"));
+		addressBook.addUser(new User("Miret", "Diane", "dianemiret4@gmail.com", "test paris", "45454545", "45-45-7898"));
+		addressBook.addUser(new User("Pasquier", "Sylvie", "sylvie-pasquier@gmail.com", "test paris", "45454545", "45-45-7898"));
+		addressBook.addUser(new User("Dorbes", "Léo", "leodorbes@gmail.com", "test paris", "45454545", "45-45-7898"));
+		addressBook.addUser(new User("Duvant", "Damien", "dduvant@gmail.com", "test paris", "45454545", "45-45-7898"));
+		addressBook.addUser(new User("Fenelon", "Raphael", "fenelonRaph@gmail.com", "test paris", "45454545", "45-45-7898"));
+		addressBook.addUser(new User("Beaujois", "Maxime", "beaumax@gmail.com", "test paris", "45454545", "45-45-7898"));
+		addressBook.addUser(new User("Trini", "Julie", "jujudu29@gmail.com", "test paris", "45454545", "45-45-7898"));
+		addressBook.addUser(new User("Gallet", "Louise", "Loulouise@gmail.com", "test paris", "45454545", "45-45-7898"));
+		addressBook.addUser(new User("Sanhou", "Laure", "laureSanhou@gmail.com", "test paris", "45454545", "45-45-7898"));
+		addressBook.addUser(new User("Miret", "Diane", "dianemiret4@gmail.com", "test paris", "45454545", "45-45-7898"));
+		addressBook.addUser(new User("Pasquier", "Sylvie", "sylvie-pasquier@gmail.com", "test paris", "45454545", "45-45-7898"));
+		addressBook.addUser(new User("Dorbes", "Léo", "leodorbes@gmail.com", "test paris", "45454545", "45-45-7898"));
+		addressBook.addUser(new User("Duvant", "Damien", "dduvant@gmail.com", "test paris", "45454545", "45-45-7898"));
+		addressBook.addUser(new User("Fenelon", "Raphael", "fenelonRaph@gmail.com", "test paris", "45454545", "45-45-7898"));
+		addressBook.addUser(new User("Beaujois", "Maxime", "beaumax@gmail.com", "test paris", "45454545", "45-45-7898"));
+		addressBook.addUser(new User("Trini", "Julie", "jujudu29@gmail.com", "test paris", "45454545", "45-45-7898"));
+		addressBook.addUser(new User("Gallet", "Louise", "Loulouise@gmail.com", "test paris", "45454545", "45-45-7898"));
+		addressBook.addUser(new User("Sanhou", "Laure", "laureSanhou@gmail.com", "test paris", "45454545", "45-45-7898"));
+		addressBook.addUser(new User("Miret", "Diane", "dianemiret4@gmail.com", "test paris", "45454545", "45-45-7898"));
+		addressBook.addUser(new User("Pasquier", "Sylvie", "sylvie-pasquier@gmail.com", "test paris", "45454545", "45-45-7898"));
+	
+	
+	
